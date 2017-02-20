@@ -1,0 +1,8 @@
+NULL=ies=s=y 1 advisor 
+NULL 21 coffeehouses  almshouses  houses  
+NULL=d=ment=r=s 1 advise 
+NULL=ly 1 advised 
+e=ing=or 1 advis 
+NULL=’ 1 advisers 
+NULL=s=’s 1 adviser 
+ility=le 1 advisab 
